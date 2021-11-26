@@ -1,0 +1,5 @@
+C:\Users\mEl\source\repos\TFStudents\TFStudents\Release\TFStudents.vcxproj.SuggestedBindingRedirects.cache
+C:\Users\mEl\source\repos\TFStudents\TFStudents\Release\TFStudents.Passtest.resources
+C:\Users\mEl\source\repos\TFStudents\TFStudents\Release\TFStudents.Registr.resources
+C:\Users\mEl\source\repos\TFStudents\TFStudents\Release\TFStudents.vcxproj.GenerateResource.cache
+C:\Users\mEl\source\repos\TFStudents\TFStudents\Release\TFStudents.vcxproj.AssemblyReference.cache
